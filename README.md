@@ -29,14 +29,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SamuelCV19&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&locale=es" alt="Estadísticas de SamuelCV19" />
 </div>
 <br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCV19&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&locale=es" alt="Lenguajes más usados" />
 </div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelCV19&theme=radical&hide_border=true&background=0D1117&locale=es" alt="Racha de commits" />
-</div>
----
+
 
 ### 🚀 Sobre mí
 
