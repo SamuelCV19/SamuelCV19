@@ -30,10 +30,6 @@
 </div>
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCV19&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&locale=es" alt="Lenguajes más usados" />
-</div>
-
 
 ### 🚀 Sobre mí
 
