@@ -1,11 +1,11 @@
 # Hola, soy Samuel! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+en+Ciberseguridad;Desarrollador+Backend;Apasionado+por+la+tecnolog%C3%ADa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+en+Ciberseguridad;Desarrollador+Full+Stack;Apasionado+por+la+tecnolog%C3%ADa" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  Soy un estudiante de Ingeniería en Ciberseguridad y desarrollador Backend enfocado en crear soluciones robustas, escalables y seguras. Disfruto enfrentando retos técnicos y optimizando sistemas.
+  Soy un estudiante de Ingeniería en Ciberseguridad y desarrollador enfocado en crear soluciones robustas, escalables y seguras. Disfruto enfrentando retos técnicos y optimizando sistemas.
 </p>
 
 ---
