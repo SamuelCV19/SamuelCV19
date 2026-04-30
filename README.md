@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  Soy un estudiante de Ingeniería en Ciberseguridad y desarrollador enfocado en crear soluciones robustas, escalables y seguras. Disfruto enfrentando retos técnicos y optimizando sistemas.
+  Soy estudiante de Ingeniería en Ciberseguridad y desarrollador enfocado en crear soluciones robustas, escalables y seguras. Disfruto enfrentando retos técnicos y optimizando sistemas.
 </p>
 
 ---
